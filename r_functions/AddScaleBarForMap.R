@@ -13,6 +13,10 @@
 #' AddScaleBarForMap(map)
 #' AddScaleBarForMap(map, position = "topright")
 
+#' Required library
+library(leaflet)
+
+#' Function
 AddScaleBarForMap <- function(map, 
                               position = "bottomleft") {
   map <- map %>%
