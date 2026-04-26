@@ -1,9 +1,9 @@
 # 📊 RVizToolbox: R Functions for Visualisation 📈
 
-## About this project
+## About this project 💡
 **RVizToolbox** is a curated collection of R functions designed to streamline **data visualisation** and **spatial mapping**. This toolbox helps researchers and analysts transform raw data into polished, publication-ready charts and maps with minimal code.
 
-## 🚀 Quick Start 
+## Quick Start 🚀 
 You can call functions from this repository directly into your R environment (no download required). This ensures you are always using the latest, most optimized version of the visualisation tools.
 
 ### Step 1: Define the Loader Function
